@@ -1,5 +1,5 @@
 ## Sonar-Detecting-Rock-vs-Mine-using-LogesticRegression
--> This Machine Learning project is used to detect mine or rock under the water using LogesticRegression Model.
+This Machine Learning program under the water with the dataset of sonar able to detect mine or rock using LogesticRegression.
 
 ### STEPS
 1) Importing Packages
